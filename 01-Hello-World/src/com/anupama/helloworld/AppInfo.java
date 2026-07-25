@@ -9,8 +9,8 @@ public class AppInfo {
     public static final String APP_AUTHOR = "Anupama Omiru";
 
     public static void printAppInfo(){
-        System.out.println("Application Name: " + APP_NAME);
-        System.out.println("Application Version: " + APP_VERSION);
-        System.out.println("Application Author: " + APP_AUTHOR);
+        System.out.println("Application : " + APP_NAME);
+        System.out.println("Version     : " + APP_VERSION);
+        System.out.println("Author      : " + APP_AUTHOR);
     }
 }
