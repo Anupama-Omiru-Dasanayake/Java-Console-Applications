@@ -4,11 +4,6 @@ public class Menu {
 
     public static void displayMenu(){
 
-        OutputFormatter.printTitle();
-
-        System.out.println("          Java Calculator");
-
-
         OutputFormatter.printLine();
 
 
